@@ -34,6 +34,6 @@
 
 [네이버](https://www.naver.com)
 
-''''Java
+```Java
 System.out.println("Hello markdown");
-'''
+```
