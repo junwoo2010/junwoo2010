@@ -8,6 +8,6 @@
 * **언어**: Java, HTML, CSS, JavaScript
 * **도구**: Git, Github, VS Code
 
-## 취미
-* **:soccer: 축구를 좋아합니다.
-* **:game: 게임을 좋아합니다.
+## 취미 :soccer:, :video_game:
+* **:soccer: 축구**를 좋아합니다.
+* **:game: 게임**을 좋아합니다.
