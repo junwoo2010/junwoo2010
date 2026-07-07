@@ -1,16 +1,13 @@
-## Hi there 👋
+## 이준우 :smile:
 
-<!--
-**junwoo2010/junwoo2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 현재 성일정보고등학교에서 방과후를 하고 있습니다
 
-Here are some ideas to get you started:
+깃과 깃허브를 배우고 있습니다
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :computer: 사용 가능한 기술 (Tech Stack)
+* **언어**: Java, HTML, CSS, JavaScript
+* **도구**: Git, Github, VS Code
+
+## 취미
+* **:soccer: 축구를 좋아합니다.
+* **:game: 게임을 좋아합니다.
